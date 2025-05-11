@@ -31,7 +31,7 @@ Welcome to **Book Haven**, a dynamic and user-friendly online bookstore built en
 ## 🔧 Setup Instructions
 
 1. **Clone the repository**
-   git clone https://github.com/your-username/book-haven.git
+   git clone https://github.com/your-username/BookStore.git
    
 **2. Import into IDE**
 
